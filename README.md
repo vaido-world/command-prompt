@@ -8,4 +8,5 @@ New "textfilename.txt"
 New "textfile"  
 
 
-new file helloworld  
+new file helloworld    
+file new folder  
